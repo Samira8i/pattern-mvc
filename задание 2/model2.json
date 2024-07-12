@@ -1,0 +1,17 @@
+{
+  "name": "Spaghetti Carbonara",
+        "author": "Gordon Ramsay",
+        "recipe_type": "Main Dish",
+        "description": "A classic Italian pasta dish made with eggs, cheese, bacon, and black pepper.",
+        "video_link": "https://www.youtube.com/watch?v=3AAdKl1UYZs",
+        "ingredients": [
+            "Spaghetti",
+            "Eggs",
+            "Parmesan cheese",
+            "Pancetta or bacon",
+            "Black pepper",
+            "Garlic",
+            "Parsley"
+        ],
+        "cuisine": "Italian"
+}
